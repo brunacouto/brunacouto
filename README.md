@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Bruna Couto</h1>
-<h3 align="center">A data-driven person.</h3>
+![image](https://user-images.githubusercontent.com/98504464/194345920-7bf719ab-804b-4d75-9658-723b3c34471f.png)
+
+
+<h1 align="center">Oi 👋, Eu sou a Bruna</h1>
+<h3 align="center">Uma pessoa curiosa e apaixonada por dados.</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Looker, Power BI, everything that's envolves data analysis.**
 
@@ -8,9 +11,6 @@
 - 📫 How to reach me **brunadocmoraes@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bruna-couto/](https://www.linkedin.com/in/bruna-couto/)
-
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
